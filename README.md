@@ -22,7 +22,6 @@ Ao longo da minha formação e estudos, tenho trabalhado ativamente com as segui
 Aqui está um dos meus projetos em destaque:
 
 - **ScoreCheck - Verificador de Notas:** Uma aplicação voltada para o gerenciamento e verificação de notas, desenvolvida para colocar em prática meus conhecimentos de lógica e desenvolvimento. Você pode acessar o projeto através do link: 
-
 [ScoreCheck](https://felipelm-dev.github.io/Score-check/)
 
 ## Contato 📬
